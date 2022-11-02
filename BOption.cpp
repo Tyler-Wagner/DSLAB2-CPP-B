@@ -9,6 +9,7 @@ int main()
 
 
     string_list.insertRear("Ford with 4 doors");
+    string_list.insertFront("Ford with 2 doors");
     string_list.printList();
 
 }
